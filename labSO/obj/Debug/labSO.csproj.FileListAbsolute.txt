@@ -1,0 +1,11 @@
+C:\Users\Andrei\Desktop\labSO\bin\Debug\labSO.exe.config
+C:\Users\Andrei\Desktop\labSO\bin\Debug\labSO.exe
+C:\Users\Andrei\Desktop\labSO\bin\Debug\labSO.pdb
+C:\Users\Andrei\Desktop\labSO\obj\Debug\labSO.csproj.AssemblyReference.cache
+C:\Users\Andrei\Desktop\labSO\obj\Debug\labSO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andrei\Desktop\labSO\obj\Debug\labSO.Form1.resources
+C:\Users\Andrei\Desktop\labSO\obj\Debug\labSO.Properties.Resources.resources
+C:\Users\Andrei\Desktop\labSO\obj\Debug\labSO.csproj.GenerateResource.cache
+C:\Users\Andrei\Desktop\labSO\obj\Debug\labSO.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\Desktop\labSO\obj\Debug\labSO.exe
+C:\Users\Andrei\Desktop\labSO\obj\Debug\labSO.pdb
